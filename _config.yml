@@ -1,5 +1,6 @@
 name: "Module Bryans website"
-title: null
-remote_theme: broccolini/athena 
+title: Bryan Sullivan
+description: Module 8 CSC109
+remote_theme: broccolini/athena
 plugins:
   - jemoji
