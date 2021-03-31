@@ -1,4 +1,4 @@
-name: "Module 8 Bryans website",
-title: null,
+name: "Module Bryans website"
+title: null
 plugins:
-  -jemoji
+  - jemoji
