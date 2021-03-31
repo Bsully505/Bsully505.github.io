@@ -1,6 +1,6 @@
 name: "Module Bryans website"
 title: Bryan Sullivan
 description: Module 8 CSC109
-remote_theme: broccolini/athena
+remote_theme: yous/whiteglass
 plugins:
   - jemoji
