@@ -4,3 +4,6 @@ description: Module 8 CSC109
 remote_theme: yous/whiteglass
 plugins:
   - jemoji
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
