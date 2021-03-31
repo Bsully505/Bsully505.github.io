@@ -1,4 +1,5 @@
 name: "Module Bryans website"
 title: null
+remote_theme: broccolini/athena 
 plugins:
   - jemoji
